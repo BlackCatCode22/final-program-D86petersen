@@ -11,8 +11,10 @@ import java.awt.event.KeyListener;
 import java.awt.event.KeyEvent;
 //import math library
 import java.lang.Math;
+
 // created class that implements the gui and key listener
-public class ChatBot extends JFrame implements KeyListener{
+public class ChatBot extends JFrame implements KeyListener
+{
 
 	// created gui objects
 
